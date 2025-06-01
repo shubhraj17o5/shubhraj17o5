@@ -18,7 +18,7 @@
 - Build a Python portfolio that pops!
 
 ⚡ Fun fact:
-Most of my bugs are just missing colons... 😅
+Most of my bugs are just missing colons and spaces... 😅
 
 ---
 
