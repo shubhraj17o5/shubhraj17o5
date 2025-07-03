@@ -3,12 +3,12 @@
 🎓 I'm a BCA undergrad diving deep into Python and programming fundamentals — one project at a time.
 
 💻 Currently working with:
-- Python (my main squeeze 🐍)
+- Python (my main squeeze 🐍) and more...
 - Git & GitHub for version control
 - Basic HTML/CSS (no JS!)
 
 🌱 Learning goals:
-- Master Python syntax, modules, and OOP
+- Learn Python syntax, modules, and OOP
 - Build Python CLI tools, scripts, and mini projects
 - Explore Data Structures and Algorithms
 
