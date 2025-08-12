@@ -21,6 +21,3 @@
 Most of my bugs are just missing colons and spaces... 😅
 
 ---
-
-### 📊 GitHub Stats
-![Shubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhraj17o5&show_icons=true&theme=dracula)
