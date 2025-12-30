@@ -1,23 +1,78 @@
-# 👋 Hi, I'm ShubhRaj
+# 👋 Hi, I'm Shubh  
 
-🎓 I'm a BCA undergrad diving deep into Python and programming fundamentals — one project at a time.
+🎓 BCA Undergraduate | 💻 Programming Fundamentals | 🚀 Learning in Public  
 
-💻 Currently working with:
-- Python (my main squeeze 🐍) and more...
-- Git & GitHub for version control
-- Basic HTML/CSS (no JS!)
-
-🌱 Learning goals:
-- Learn Python syntax, modules, and OOP
-- Build Python CLI tools, scripts, and mini projects
-- Explore Data Structures and Algorithms
-
-🎯 2025 Dev Goals:
-- Upload at least 5 Python projects
-- Contribute to open-source
-- Build a Python portfolio that pops!
-
-⚡ Fun fact:
-Most of my bugs are just missing colons and spaces... 😅
+Welcome to my GitHub.  
+This space reflects my journey of learning core programming and building a strong technical base.
 
 ---
+
+## 🧠 About Me  
+
+- 🎓 Undergraduate student (BCA)  
+- 💡 Focused on understanding how programming actually works  
+- 🛠️ Learning by writing, breaking, and fixing code  
+- 🌱 Prioritizing fundamentals over shortcuts  
+
+> 2026 is about clarity, consistency, and clean foundations.
+
+---
+
+## 🛠️ Tech Stack (2026)
+
+**Languages**
+- ☕ Java — core concepts & OOP  
+- 🔵 C — programming fundamentals  
+- 🧩 Kotlin — learning (Android-focused)  
+- 🐍 Python — basics  
+
+**Tools**
+- Git & GitHub  
+- Linux (basics)  
+- IntelliJ IDEA / VS Code  
+
+---
+
+## 📊 GitHub Activity
+
+![Shubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+---
+
+## 📂 What You’ll Find Here
+
+- 📘 Core programming practice  
+- 🧪 Small experiments & mini-projects  
+- 📓 Notes and reference implementations  
+- 🚧 Work-in-progress repositories  
+
+This GitHub is a learning log, not a highlight reel.
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build strong programming fundamentals  
+- ✅ Become confident in Java  
+- 🔄 Learn Kotlin for Android development  
+- 🧱 Create small but meaningful projects  
+
+---
+
+## 🧭 My Coding Mindset
+
+- Understand the “why” before the “how”  
+- Write code for humans first  
+- Progress > perfection  
+
+---
+
+### ⚡ 2026 Reminder  
+> *“Strong foundations outlast trends.”*
+
+Thanks for stopping by.  
+Let’s keep building. 🚀
