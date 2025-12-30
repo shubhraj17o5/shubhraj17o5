@@ -35,11 +35,11 @@ This space reflects my journey of learning core programming and building a stron
 
 ## 📊 GitHub Activity
 
-![Shubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Shubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhraj17o5&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=shubhraj17o5&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhraj17o5&layout=compact&theme=dark)
 
 ---
 
